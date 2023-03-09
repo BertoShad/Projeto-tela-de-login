@@ -8,7 +8,7 @@ Desktop: até 1920px
 TV: Acima de 1920px
 */
 
-@media screen and (min-width: 812px) and (max-width: 1024px) {
+@media screen and (min-width: 600px) and (max-width: 1024px) {
     section#login { 
         width: 70vw;
     }
